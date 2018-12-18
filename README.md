@@ -24,7 +24,7 @@ STEP 4 Copy Folder petugas
 2. Copy folder 'petugas' pada C://xampp/htdocs/
 3. Atur konfigurasi database pada C://xampp/htdocs/petugas/application/config/database.php, untuk default saya tidak menggunakan password, dengan menggunakan host 'localhost' dan user 'root'
 
-STEP 5 Menampilkan
+STEP 5 Menampilkan Data
 1. Untuk menampilkan hasil JSON, buka internet browser, ketik URL dengan link http://localhost/petugas/
 2. Untuk menampilkan API seleksi, buka internet browser, ketik URL dengan link http://localhost/petugas/frontend/
 3. Untuk menampilkan Kode Kecamatan dan Kode Desa, klik "Daftar Kode Kecamatan dan Desa" pada link http://localhost/petugas/frontend/
