@@ -9,7 +9,7 @@ STEP 2 Install HeidiSQL untuk akses database untuk SQL Query
 1. Download untuk windows https://www.heidisql.com/download.php
 2. Install HeidiSQL (next and next)
 
-STEP 3 Import Tabel
+STEP 3 Create Database petugas dan Import SQL ke Database Petugas
 
 1. Create database petugas
 
