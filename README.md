@@ -14,9 +14,10 @@ STEP 3 Import Tabel
 1. Create database petugas
 
     CREATE DATABASE petugas;
-    
-2. Import tabel dan Insert data awal menggunakan petugas.sql pada database petugas
-3. Buka HeidiSQL, pilih database petugas, masukkan SQL query dengan menggunakan petugas.sql
+
+2. Download petugas.sql
+3. Import tabel dan Insert data awal menggunakan petugas.sql pada database petugas
+4. Buka HeidiSQL, pilih database petugas, masukkan SQL query dengan menggunakan petugas.sql
 
 STEP 4 Copy Folder petugas
 1. Download petugas.rar, kemudian extract pada hasil install XAMPP, biasanya hasil install pada C://xampp, kemudian klik folder xampp dan masukkan folder 'petugas' hasil extract ke folder htdocs atau C://xampp/htdocs/
