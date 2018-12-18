@@ -13,6 +13,7 @@ STEP 2 Install HeidiSQL untuk akses database untuk SQL Query
 STEP 3 Import Tabel
 
 1. Create database petugas
+
     CREATE DATABASE petugas;
 2. Import tabel dan data awal menggunakan petugas.sql
 
