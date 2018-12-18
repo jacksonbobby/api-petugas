@@ -15,7 +15,7 @@ STEP 3 Import Tabel
 
     CREATE DATABASE petugas;
     
-2. Import tabel dan data awal menggunakan petugas.sql
+2. Import tabel dan Insert data awal menggunakan petugas.sql pada database petugas
 3. Buka HeidiSQL, pilih database petugas, masukkan SQL query dengan menggunakan petugas.sql
 
 STEP 4 Copy Folder petugas
