@@ -19,8 +19,8 @@ STEP 3 Import Tabel
 3. Buka HeidiSQL, pilih database petugas, masukkan SQL query dengan menggunakan petugas.sql
 
 STEP 4 Copy Folder petugas
-1. Download petugas.rar, kemudian extract pada hasil install XAMPP, biasanya hasil install pada C://xampp, kemudian klik folder xampp dan masukkan folder hasil extract ke folder htdocs atau C://xampp/htdocs/
-2. Copy folder petugas pada C://xampp/htdocs/
+1. Download petugas.rar, kemudian extract pada hasil install XAMPP, biasanya hasil install pada C://xampp, kemudian klik folder xampp dan masukkan folder 'petugas' hasil extract ke folder htdocs atau C://xampp/htdocs/
+2. Copy folder 'petugas' pada C://xampp/htdocs/
 3. Atur konfigurasi database pada C://xampp/htdocs/petugas/application/config/database.php, untuk default saya tidak menggunakan password, dengan menggunakan host 'localhost' dan user 'root'
 
 STEP 5 Menampilkan
